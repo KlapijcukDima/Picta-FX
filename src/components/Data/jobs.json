@@ -1,0 +1,25 @@
+[
+    {
+        "position": "Product Manager",
+        "location": "Lagos, Nigeria",
+        "workTime": "Full time"
+    },
+
+    {
+        "position": "Marketing Director",
+        "location": "Lagos, Nigeria",
+        "workTime": "Full time"  
+    },
+
+    {
+        "position": "Financial Analyst",
+        "location": "Lagos, Nigeria",
+        "workTime": "Full time"  
+    },
+    
+    {
+        "position": "UI/UX Designer",
+        "location": "Lagos, Nigeria",
+        "workTime": "Full time"  
+    }
+]

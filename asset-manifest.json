@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Picta-FX/static/css/main.7acaea2f.css",
+    "main.js": "/Picta-FX/static/js/main.07d3183d.js",
+    "index.html": "/Picta-FX/index.html",
+    "main.7acaea2f.css.map": "/Picta-FX/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Picta-FX/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}

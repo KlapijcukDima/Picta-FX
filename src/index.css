@@ -2,6 +2,16 @@
 
  /* bring in normalize.css styles */
 
+ :root{
+  --button-color: #1A6AE2;
+  --header-text-color: #222;
+  --paragraph-text-color: #444;
+  --white-text-color: #FFF;  
+  --primary-background: #496693;
+  --orange-text-color: #FFD764;
+  
+ }
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -15,3 +25,4 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+

@@ -1,6 +1,6 @@
 // import { Header } from './Header/Header.jsx';
-// import { Title } from './Hero/Title/Title.jsx';
-// import { Video } from './Hero/Video/Video.jsx';
+import { Title } from './Hero/Title/Title.jsx';
+import { Video } from './Hero/Video/Video.jsx';
 // import { Service } from './Main/Service/Service.jsx';
 // import { Man } from './Main/Man/Man.jsx';
 // import { Footer } from './Footer/Footer.jsx';
@@ -13,6 +13,9 @@
 
 export const App = () => {
   return (
-    <div></div>
+    <div>
+      <Title />
+      <Video />
+    </div>
   );
 };

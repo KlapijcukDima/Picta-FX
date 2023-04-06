@@ -1,4 +1,4 @@
-import css from '../../Footer/Footer.module.css';
+// import css from '../../Footer/Footer.module.css';
 
 export const Consultancy = () => {
   return (
@@ -6,19 +6,19 @@ export const Consultancy = () => {
       <h4>Consultancy</h4>
       <ul>
         <li>
-          <a href="">Marketing</a>
+          <a href="/">Marketing</a>
         </li>
         <li>
-          <a href="">Social media</a>
+          <a href="/">Social media</a>
         </li>
         <li>
-          <a href="">Management</a>
+          <a href="/">Management</a>
         </li>
         <li>
-          <a href="">SEO</a>
+          <a href="/">SEO</a>
         </li>
         <li>
-          <a href="">Custom plans</a>
+          <a href="/">Custom plans</a>
         </li>
       </ul>
     </div>

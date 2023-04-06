@@ -1,4 +1,4 @@
-import css from './Footer.module.css';
+// import css from './Footer.module.css';
 import { About } from './About/About.jsx';
 import { Portfolio } from './Portfolio/Portfolio.jsx';
 import { Consultancy } from './Consultancy/Consultancy.jsx';    

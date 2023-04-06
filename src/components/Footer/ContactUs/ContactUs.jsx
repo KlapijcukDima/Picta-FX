@@ -1,4 +1,4 @@
-import css from '../../Footer/Footer.module.css';
+// import css from '../../Footer/Footer.module.css';
 
 export const ContactUs = () => {
   return (
@@ -6,16 +6,16 @@ export const ContactUs = () => {
     <h4>Contact us</h4>
     <ul>
       <li>
-        <a href="">Contacts</a>
+        <a href="/">Contacts</a>
       </li>
       <li>
-        <a href="">Team members</a>
+        <a href="/">Team members</a>
       </li>
       <li>
-        <a href="">History</a>
+        <a href="/">History</a>
       </li>
       <li>
-        <a href="">info@pictaFX.com</a>
+        <a href="/">info@pictaFX.com</a>
       </li>
     </ul>
   </div>

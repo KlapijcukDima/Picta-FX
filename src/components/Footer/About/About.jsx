@@ -1,4 +1,4 @@
-import css from '../../Footer/Footer.module.css';
+// import css from '../../Footer/Footer.module.css';
 
 export const About = () => {
   return (
@@ -6,16 +6,16 @@ export const About = () => {
       <h4>About</h4>
       <ul>
         <li>
-          <a href="">About</a>
+          <a href="/">About</a>
         </li>
         <li>
-          <a href="">Services</a>
+          <a href="/">Services</a>
         </li>
         <li>
-          <a href="">Features</a>
+          <a href="/">Features</a>
         </li>
         <li>
-          <a href="">Team</a>
+          <a href="/">Team</a>
         </li>
       </ul>
     </div>

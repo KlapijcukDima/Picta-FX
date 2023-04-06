@@ -4,6 +4,7 @@ import { Video } from './Hero/Video/Video.jsx';
 // import { Service } from './Main/Service/Service.jsx';
 import { Man } from './Main/Man/Man.jsx';
 import { Footer } from './Footer/Footer.jsx';
+import { Button } from './common/Button/Button.jsx';
 
 // import jobs from './Data/jobs.json';
 import man from './Data/man.json';
@@ -13,6 +14,7 @@ export const App = () => {
   return (
     <div>
       <Title />
+      <Button />
       <Video />
       <Man
         name={man[0].name}

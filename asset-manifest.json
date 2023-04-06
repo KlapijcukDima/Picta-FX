@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Picta-FX/static/css/main.e3b733cf.css",
-    "main.js": "/Picta-FX/static/js/main.5a6b957e.js",
+    "main.css": "/Picta-FX/static/css/main.a67e6077.css",
+    "main.js": "/Picta-FX/static/js/main.9f42fd5c.js",
     "index.html": "/Picta-FX/index.html",
-    "main.e3b733cf.css.map": "/Picta-FX/static/css/main.e3b733cf.css.map",
-    "main.5a6b957e.js.map": "/Picta-FX/static/js/main.5a6b957e.js.map"
+    "main.a67e6077.css.map": "/Picta-FX/static/css/main.a67e6077.css.map",
+    "main.9f42fd5c.js.map": "/Picta-FX/static/js/main.9f42fd5c.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3b733cf.css",
-    "static/js/main.5a6b957e.js"
+    "static/css/main.a67e6077.css",
+    "static/js/main.9f42fd5c.js"
   ]
 }

@@ -1,21 +1,49 @@
-// import css from '../../Footer/Footer.module.css';
+import css from '../../Footer/Footer.module.css';
 
 export const About = () => {
   return (
-    <div>
-      <h4>About</h4>
-      <ul>
-        <li>
-          <a href="/">About</a>
+    <div className={css.footer}>
+      <h4 className={css.footer__title}>About</h4>
+      <ul className={css.footer__list}>
+        <li className={css.footer__item}>
+          <a
+            className={css.footer__link}
+            href="/"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            About
+          </a>
         </li>
-        <li>
-          <a href="/">Services</a>
+        <li className={css.footer__item}>
+          <a
+            className={css.footer__link}
+            href="/"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            Services
+          </a>
         </li>
-        <li>
-          <a href="/">Features</a>
+        <li className={css.footer__item}>
+          <a
+            className={css.footer__link}
+            href="/"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            Features
+          </a>
         </li>
-        <li>
-          <a href="/">Team</a>
+        <li className={css.footer__item}>
+          <a
+            className={css.footer__link}
+            href="/"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            Team
+          </a>
         </li>
       </ul>
     </div>

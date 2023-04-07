@@ -2,8 +2,8 @@ import css from '../../Footer/Footer.module.css';
 
 export const Portfolio = () => {
   return (
-    <div className={css.footer}>
-      <h4 className={css.footer__title}>Portfolio</h4>
+    <div>
+      <h4 className={css.footer__title}>Портфоліо</h4>
       <ul className={css.footer__list}>
         <li className={css.footer__item}>
           <a

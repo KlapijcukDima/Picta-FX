@@ -8,12 +8,19 @@ import { SocialMedia } from './SocialMedia/SocialMedia.jsx';
 export const Footer = footer => {
   return (
     <footer className={css.footer}>
-      <section className={css.footer__container}>
-        <About />
-        <Portfolio />
-        <Consultancy />
-        <ContactUs />
-        <SocialMedia />
+      <section>
+        <div className={css.footer__container}>
+          <div className={css.footer__container__information}>
+            <About />
+            <Portfolio />
+            <Consultancy />
+            <ContactUs />
+          </div>
+
+          <div>
+            <SocialMedia />
+          </div>
+        </div>
       </section>
     </footer>
   );

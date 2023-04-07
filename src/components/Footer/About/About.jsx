@@ -2,8 +2,8 @@ import css from '../../Footer/Footer.module.css';
 
 export const About = () => {
   return (
-    <div className={css.footer}>
-      <h4 className={css.footer__title}>About</h4>
+    <div >
+      <h4 className={css.footer__title}>Про нас</h4>
       <ul className={css.footer__list}>
         <li className={css.footer__item}>
           <a
@@ -12,7 +12,7 @@ export const About = () => {
             target="_blank"
             rel="noreferrer noopener"
           >
-            About
+            Про нас
           </a>
         </li>
         <li className={css.footer__item}>
@@ -22,7 +22,7 @@ export const About = () => {
             target="_blank"
             rel="noreferrer noopener"
           >
-            Services
+            Послуги
           </a>
         </li>
         <li className={css.footer__item}>
@@ -32,7 +32,7 @@ export const About = () => {
             target="_blank"
             rel="noreferrer noopener"
           >
-            Features
+            Особливості
           </a>
         </li>
         <li className={css.footer__item}>
@@ -42,7 +42,7 @@ export const About = () => {
             target="_blank"
             rel="noreferrer noopener"
           >
-            Team
+            Команда
           </a>
         </li>
       </ul>

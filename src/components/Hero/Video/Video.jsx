@@ -5,8 +5,6 @@ export const Video = video => {
     <div className={css.video__block}>
       <iframe
         className={css.video__player}
-        width="1000"
-        height="610"
         src="https://www.youtube.com/embed/SSo_EIwHSd4"
         title="How does a blockchain work - Simply Explained"
         frameborder="0"

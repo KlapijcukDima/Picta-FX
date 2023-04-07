@@ -2,7 +2,7 @@
   background-color: var(--primary-background);
   background-image: url('../../img/crypto-img.jpg');
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: center center; 
   background-size: cover;
 }
 

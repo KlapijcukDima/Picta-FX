@@ -1,8 +1,24 @@
-.video__block{
+.video__block {
     display: flex;
     justify-content: center;
 }
 
-.video__player{
+.video__player {
+    width: 324px;
+    height: 240px;
     border-radius: 18px;
+}
+
+@media screen and (min-width: 768px) {
+    .video__player {
+        width: 689px;
+        height: 498px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .video__player {
+        width: 1000px;
+        height: 609px;
+    }
 }

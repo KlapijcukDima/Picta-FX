@@ -17,18 +17,13 @@ export const App = () => {
       <Title />
       <Button />
       <Video />
-      <Jobs jobs={jobs} />
-      {/* <Jobs
-        position={jobs[0].position}
-        location={jobs[0].location}
-        workTime={jobs[0].workTime}
-      /> */}
       <Man
         name={man[0].name}
         quote={man[0].quote}
         image={man[0].image}
         position={man[0].position}
       />
+      <Jobs jobs={jobs} />
       <Footer />
     </div>
   );

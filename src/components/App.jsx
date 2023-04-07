@@ -1,4 +1,4 @@
-// import { Header } from './Header/Header.jsx';
+import { Header } from './Header/Header.jsx';
 import { Title } from './Hero/Title/Title.jsx';
 import { Video } from './Hero/Video/Video.jsx';
 // import { Service } from './Main/Service/Service.jsx';
@@ -14,9 +14,11 @@ import man from './Data/man.json';
 export const App = () => {
   return (
     <div>
+      <Header />
       <Title />
       <Button />
       <Video />
+      <Jobs jobs={jobs} />
       <Man
         name={man[0].name}
         quote={man[0].quote}

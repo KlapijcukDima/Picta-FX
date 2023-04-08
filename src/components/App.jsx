@@ -18,7 +18,6 @@ export const App = () => {
       <Title />
       <Button />
       <Video />
-      <Jobs jobs={jobs} />
       <Man
         name={man[0].name}
         quote={man[0].quote}

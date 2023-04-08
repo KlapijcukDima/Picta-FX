@@ -2,6 +2,7 @@ import css from './Title.module.css';
 
 export const Title = title => {
   return (
+    <section>
     <div className={css.hero__block}>
       <h1 className={css.hero__title}>
         Приєднуйтесь до нашої Crypto мережі сьогодні та торгуйте своїм шляхом!
@@ -12,5 +13,6 @@ export const Title = title => {
         доступу до світового валютного ринку.
       </p>
     </div>
+    </section>
   );
 };

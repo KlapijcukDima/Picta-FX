@@ -25,6 +25,7 @@ export const App = () => {
         image={man[0].image}
         position={man[0].position}
       />
+      <Jobs jobs={jobs} />
       <Footer />
     </div>
   );

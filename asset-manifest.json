@@ -1,20 +1,26 @@
 {
   "files": {
-    "main.css": "/Picta-FX/static/css/main.07f6f9ac.css",
-    "main.js": "/Picta-FX/static/js/main.92ba6481.js",
+    "main.css": "/Picta-FX/static/css/main.fb041765.css",
+    "main.js": "/Picta-FX/static/js/main.00d8299e.js",
     "static/media/crypto-img.jpg": "/Picta-FX/static/media/crypto-img.95b50494fa6ac041462d.jpg",
+    "static/media/Money.svg": "/Picta-FX/static/media/Money.ccf2047515544d776a8b115a47b8ee7b.svg",
+    "static/media/Crypto.svg": "/Picta-FX/static/media/Crypto.63ff318e8b0f4cb265bbb63152139087.svg",
+    "static/media/Finances.svg": "/Picta-FX/static/media/Finances.e235bfb9cbf80c7d354de5a67113210c.svg",
     "static/media/Twitter.svg": "/Picta-FX/static/media/Twitter.fc972c3f1fb104ef707c467d866a4353.svg",
+    "static/media/Multiple.svg": "/Picta-FX/static/media/Multiple.616602cf82a4c5a6dc8ca35c8a4cdb89.svg",
+    "static/media/Increased.svg": "/Picta-FX/static/media/Increased.68e249397dd678a31d08dfc3eb2a2474.svg",
+    "static/media/Privacy.svg": "/Picta-FX/static/media/Privacy.2ee3420989596fcd6f70c6d4423e5e2f.svg",
     "static/media/linkedIn.svg": "/Picta-FX/static/media/linkedIn.3d2b247474f8b8adc110b40e5e075682.svg",
     "static/media/pinterest.svg": "/Picta-FX/static/media/pinterest.1e3c2d19d71b01ebb8e3d941ab1b5e2d.svg",
     "index.html": "/Picta-FX/index.html",
     "static/media/facebook.svg": "/Picta-FX/static/media/facebook.11628e706a624f578c7d3bf01bb28635.svg",
     "static/media/quotes.svg": "/Picta-FX/static/media/quotes.d99c1dc115562f2458b2b1e15a122843.svg",
     "static/media/menu.svg": "/Picta-FX/static/media/menu.73716965b49b50cdcbf4077892161774.svg",
-    "main.07f6f9ac.css.map": "/Picta-FX/static/css/main.07f6f9ac.css.map",
-    "main.92ba6481.js.map": "/Picta-FX/static/js/main.92ba6481.js.map"
+    "main.fb041765.css.map": "/Picta-FX/static/css/main.fb041765.css.map",
+    "main.00d8299e.js.map": "/Picta-FX/static/js/main.00d8299e.js.map"
   },
   "entrypoints": [
-    "static/css/main.07f6f9ac.css",
-    "static/js/main.92ba6481.js"
+    "static/css/main.fb041765.css",
+    "static/js/main.00d8299e.js"
   ]
 }

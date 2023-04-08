@@ -27,7 +27,7 @@ section{
   padding-top: 91px;
 }
 
-.block {
+/* .block {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -75,4 +75,132 @@ section{
     font-weight: 300;
     font-size: 14px;
     line-height: 213%;
+  } */
+
+
+  .block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .man__img_block {
+    margin-right: 20px;
+  }
+  
+  .man__img {
+    display: block;
+    width: 100%;
+    max-width: 586px;
+    height: auto;
+  }
+  
+  .man__right_block {
+    margin-left: 52px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .quote{
+    width: 40px;
+    height: 40px;
+    margin-bottom: 15px;
+  }
+  
+  .man__quote {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 240%;
+  }
+  
+  .man__name {
+    margin-top: 15px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 245%;
+  }
+  
+  .man__position {
+    margin-top: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 213%;
+  }
+  
+  @media screen and (min-width: 768px) {
+    .man__img_block {
+      margin-right: 40px;
+    }
+    
+    .man__img {
+      max-width: 382px;
+    }
+    
+    .man__right_block {
+      margin-left: 80px;
+    }
+
+    .quote{
+      width: 100px;
+      height: 100px;
+      margin-bottom: 33px;
+    }
+    
+    .man__quote {
+      font-family: 'Montserrat';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 20px;
+      line-height: 200%;
+      max-width: 327px;
+    }
+
+    .man__name{
+      margin-top: 30px;
+    }
+
+    .man__position{
+      margin-top: 20px;
+    }
+  }
+  
+  @media screen and (min-width: 1280px) {
+    .man__img_block {
+      margin-right: 80px;
+    }
+    
+    .man__img {
+      max-width: 586px;
+    }
+    
+    .man__right_block {
+      margin-left: 70px;
+    }
+
+    .quote{
+      width: 140px;
+      height: 140px;
+      margin-bottom: 33px;
+    }
+    
+    .man__quote {
+      max-width: 457px;
+      font-size: 30px;
+    }
+    
+    .man__name {
+      font-size: 20px;
+      line-height: 150%;
+    }
+    
+    .man__position {
+      font-size: 18px;
+      line-height: 160%;
+    }
   }

@@ -2,6 +2,7 @@
   display: flex;
   align-items: center;
   flex-direction: column;
+  margin-bottom: 133px;
 }
 
 .jobs__header {
@@ -44,7 +45,8 @@
     padding-top: 45px;
     padding-bottom: 91px;
     padding-left: 47px;
-    padding-right: 923px;  }
+    padding-right: 923px;
+  }
 }
 
 .jobs__second__container {

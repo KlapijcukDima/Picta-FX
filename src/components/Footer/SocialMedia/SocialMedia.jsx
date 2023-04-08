@@ -1,4 +1,8 @@
 import css from '../../Footer/Footer.module.css';
+import { ReactComponent as Facebook } from '../../../img/facebook.svg';
+import { ReactComponent as Twitter } from '../../../img/Twitter.svg';
+import { ReactComponent as Linkedin } from '../../../img/linkedIn.svg';
+import { ReactComponent as Pinterest } from '../../../img/pinterest.svg';
 
 export const SocialMedia = () => {
   return (
@@ -11,12 +15,7 @@ export const SocialMedia = () => {
             target="_blank"
             rel="noreferrer noopener"
           >
-            <svg className={css.footer__svg__color} width="28" height="28">
-              <use
-                href="./src/img/symbol-defs.svg#icon-Twitter"
-                alt="facebook"
-              ></use>
-            </svg>
+            <Facebook />
           </a>
         </li>
         <li className={css.footer__item}>
@@ -26,9 +25,7 @@ export const SocialMedia = () => {
             target="_blank"
             rel="noreferrer noopener"
           >
-            <svg width="28" height="28">
-              <use href=""></use>
-            </svg>
+            <Twitter />
           </a>
         </li>
         <li className={css.footer__item}>
@@ -38,9 +35,7 @@ export const SocialMedia = () => {
             target="_blank"
             rel="noreferrer noopener"
           >
-            <svg width="28" height="28">
-              <use href=""></use>
-            </svg>
+            <Linkedin />
           </a>
         </li>
         <li className={css.footer__item}>
@@ -50,16 +45,16 @@ export const SocialMedia = () => {
             target="_blank"
             rel="noreferrer noopener"
           >
-            <svg width="28" height="28">
-              <use href=""></use>
-            </svg>
+            <Pinterest />
           </a>
         </li>
       </ul>
 
       <ul className={css.footer__list__social}>
         <li>
-          <a className={css.footer__link__copyright} href="/">Авторське право FLP 2023</a>
+          <a className={css.footer__link__copyright} href="/">
+            Авторське право FLP 2023
+          </a>
         </li>
       </ul>
     </div>

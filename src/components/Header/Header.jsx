@@ -1,5 +1,6 @@
 import css from './Header.module.css';
 import button from '../common/Button/Button.module.css';
+import { ReactComponent as Menu } from '../../img/menu.svg';
 
 export const Header = header => {
   return (
@@ -42,8 +43,18 @@ export const Header = header => {
         </div>
 
         <div className={css.header__container__third}>
-          <button className={button.button}>Логін</button>
-          <button className={button.button}>Зареєструватися</button>
+          <button className={css.button__login} type="button">
+            Логін
+          </button>
+          <button className={button.button} type="button">
+            Зареєструватися
+          </button>
+        </div>
+
+        <div className={css.header__container__fourth}>
+          <button className={css.button__menu} type="button">
+            <Menu />
+          </button>
         </div>
       </div>
     </section>

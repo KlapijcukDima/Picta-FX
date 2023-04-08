@@ -2,7 +2,7 @@
   background-color: var(--primary-background);
   background-image: url('../../img/crypto-img.jpg');
   background-repeat: no-repeat;
-  background-position: center center; 
+  background-position: center center;
   background-size: cover;
 }
 
@@ -14,12 +14,24 @@
   padding-left: 18px;
   padding-right: 18px;
 }
+@media screen and (min-width: 768px) {
+  .footer__container {
+    padding-top: 53px;
+    padding-bottom: 50px;
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+}
 @media screen and (min-width: 1280px) {
   .footer__container {
-    display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: baseline;
+
+    padding-top: 105px;
+    padding-bottom: 80px;
+    padding-left: 18px;
+    padding-right: 18px;
   }
 }
 
@@ -70,8 +82,8 @@
   color: var(--white-text-color);
   font-size: 8px;
   font-weight: 300px;
-    transition: color 0.44s ease-in-out, border-color 0.44s ease-in-out, padding-bottom 0.1s ease-in-out;
-
+  transition: color 0.44s ease-in-out, border-color 0.44s ease-in-out,
+    padding-bottom 0.1s ease-in-out;
 }
 @media screen and (min-width: 768px) {
   .footer__link {
@@ -86,7 +98,7 @@
   }
 }
 .footer__link:hover {
-  border-bottom: 1px solid transparent; 
+  border-bottom: 1px solid transparent;
   border-radius: 2px;
   border-color: var(--orange-text-color);
   color: var(--orange-text-color);

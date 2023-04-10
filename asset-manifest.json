@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Picta-FX/static/css/main.fb041765.css",
-    "main.js": "/Picta-FX/static/js/main.00d8299e.js",
+    "main.css": "/Picta-FX/static/css/main.8b1264f8.css",
+    "main.js": "/Picta-FX/static/js/main.5a54b705.js",
     "static/media/crypto-img.jpg": "/Picta-FX/static/media/crypto-img.95b50494fa6ac041462d.jpg",
     "static/media/Money.svg": "/Picta-FX/static/media/Money.ccf2047515544d776a8b115a47b8ee7b.svg",
     "static/media/Crypto.svg": "/Picta-FX/static/media/Crypto.63ff318e8b0f4cb265bbb63152139087.svg",
@@ -12,15 +12,17 @@
     "static/media/Privacy.svg": "/Picta-FX/static/media/Privacy.2ee3420989596fcd6f70c6d4423e5e2f.svg",
     "static/media/linkedIn.svg": "/Picta-FX/static/media/linkedIn.3d2b247474f8b8adc110b40e5e075682.svg",
     "static/media/pinterest.svg": "/Picta-FX/static/media/pinterest.1e3c2d19d71b01ebb8e3d941ab1b5e2d.svg",
+    "static/media/location.svg": "/Picta-FX/static/media/location.0fd8c1a97e77160bd8c913138a6b02cc.svg",
     "index.html": "/Picta-FX/index.html",
+    "static/media/FullTime.svg": "/Picta-FX/static/media/FullTime.f909eea271393c0391c3da8782bf494f.svg",
     "static/media/facebook.svg": "/Picta-FX/static/media/facebook.11628e706a624f578c7d3bf01bb28635.svg",
     "static/media/quotes.svg": "/Picta-FX/static/media/quotes.d99c1dc115562f2458b2b1e15a122843.svg",
     "static/media/menu.svg": "/Picta-FX/static/media/menu.73716965b49b50cdcbf4077892161774.svg",
-    "main.fb041765.css.map": "/Picta-FX/static/css/main.fb041765.css.map",
-    "main.00d8299e.js.map": "/Picta-FX/static/js/main.00d8299e.js.map"
+    "main.8b1264f8.css.map": "/Picta-FX/static/css/main.8b1264f8.css.map",
+    "main.5a54b705.js.map": "/Picta-FX/static/js/main.5a54b705.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb041765.css",
-    "static/js/main.00d8299e.js"
+    "static/css/main.8b1264f8.css",
+    "static/js/main.5a54b705.js"
   ]
 }

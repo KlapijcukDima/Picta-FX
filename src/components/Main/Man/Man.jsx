@@ -1,6 +1,6 @@
 import { ReactComponent as Logo } from '../../../img/quotes.svg';
 import css from './Man.module.css';
-import PropTypes from 'prop-types'
+import PropTypes from 'prop-types';
 
 export const Man = ({ name, quote, image, position }) => {
   return (

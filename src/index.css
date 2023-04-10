@@ -1,28 +1,27 @@
 @import-normalize;
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
 
+/* bring in normalize.css styles */
 
- /* bring in normalize.css styles */
-
- :root{
-  --button-color: #1A6AE2;
+:root {
+  --button-color: #1a6ae2;
   --header-text-color: #222;
   --paragraph-text-color: #444;
-  --white-text-color: #FFF;  
+  --white-text-color: #fff;
   --primary-background: #496693;
-  --orange-text-color: #FFD764;
-  --grean-text-color: #56FF56;
- }
+  --orange-text-color: #ffd764;
+  --grean-text-color: #56ff56;
+}
 
 body {
   margin: 0;
-  font-family:'Montserrat', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: "Montserrat";
+  font-family: 'Montserrat';
 }
 
 section {
@@ -43,11 +42,6 @@ section {
   section {
     max-width: 1280px;
   }
-}
-
-
-.container{
-  max-width: 1200;
 }
 
 h1,
@@ -71,7 +65,10 @@ img {
   height: auto;
 }
 
-a{
+a {
   text-decoration: none;
 }
 
+button {
+  cursor: pointer;
+}

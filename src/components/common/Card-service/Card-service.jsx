@@ -11,7 +11,7 @@ export const Card = ({ cards }) => {
     <section className={css.section__card_service}>
       <div className={css.service__title_block}>
         <h2 className={css.service__title}>
-          This is what we bring to the table
+          Послуги які ми пропонуємо
         </h2>
       </div>
 

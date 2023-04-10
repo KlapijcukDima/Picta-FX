@@ -85,6 +85,7 @@
   }
   
   .man__img {
+    border-radius: 20px;
     display: block;
     width: 100%;
     max-width: 586px;

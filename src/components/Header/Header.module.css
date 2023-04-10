@@ -4,21 +4,15 @@
   align-items: center;
   padding-top: 10px;
   padding-bottom: 56px;
+  margin-right: 0;
   align-items: center;
 }
-
-/* .header__container__first {
-} */
 
 @media screen and (max-width: 1279.98px) {
   .header__container__second {
     display: none;
   }
 }
-/* @media screen and (min-width: 1280px) {
-  .header__container__second {
-  }
-} */
 
 @media screen and (max-width: 1279.98px) {
   .header__container__third {
@@ -74,12 +68,13 @@
   background: transparent;
 }
 
+@media screen and (min-width: 1280px) {
+  .header__container__fourth {
+    display: none;
+  }
+}
+
 .button__menu {
   border: none;
   background: transparent;
-}
-@media screen and (min-width: 1280px) {
-  .button__menu {
-    display: none;
-  }
 }

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Picta-FX/static/css/main.5ce4a2a7.css",
+    "main.css": "/Picta-FX/static/css/main.531588df.css",
     "main.js": "/Picta-FX/static/js/main.898f5d18.js",
     "static/media/crypto-img.jpg": "/Picta-FX/static/media/crypto-img.95b50494fa6ac041462d.jpg",
     "static/media/Money.svg": "/Picta-FX/static/media/Money.ccf2047515544d776a8b115a47b8ee7b.svg",
@@ -19,11 +19,11 @@
     "static/media/quotes.svg": "/Picta-FX/static/media/quotes.d99c1dc115562f2458b2b1e15a122843.svg",
     "static/media/menu.svg": "/Picta-FX/static/media/menu.73716965b49b50cdcbf4077892161774.svg",
     "static/media/arrow.svg": "/Picta-FX/static/media/arrow.157a61111ff55a7f974dea6beae684dd.svg",
-    "main.5ce4a2a7.css.map": "/Picta-FX/static/css/main.5ce4a2a7.css.map",
+    "main.531588df.css.map": "/Picta-FX/static/css/main.531588df.css.map",
     "main.898f5d18.js.map": "/Picta-FX/static/js/main.898f5d18.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ce4a2a7.css",
+    "static/css/main.531588df.css",
     "static/js/main.898f5d18.js"
   ]
 }

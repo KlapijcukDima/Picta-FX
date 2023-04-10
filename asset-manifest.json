@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Picta-FX/static/css/main.fd0301fc.css",
-    "main.js": "/Picta-FX/static/js/main.898f5d18.js",
+    "main.css": "/Picta-FX/static/css/main.e7885d64.css",
+    "main.js": "/Picta-FX/static/js/main.87f4f8a6.js",
     "static/media/crypto-img.jpg": "/Picta-FX/static/media/crypto-img.95b50494fa6ac041462d.jpg",
     "static/media/Money.svg": "/Picta-FX/static/media/Money.ccf2047515544d776a8b115a47b8ee7b.svg",
     "static/media/Crypto.svg": "/Picta-FX/static/media/Crypto.63ff318e8b0f4cb265bbb63152139087.svg",
@@ -19,11 +19,11 @@
     "static/media/quotes.svg": "/Picta-FX/static/media/quotes.d99c1dc115562f2458b2b1e15a122843.svg",
     "static/media/menu.svg": "/Picta-FX/static/media/menu.73716965b49b50cdcbf4077892161774.svg",
     "static/media/arrow.svg": "/Picta-FX/static/media/arrow.157a61111ff55a7f974dea6beae684dd.svg",
-    "main.fd0301fc.css.map": "/Picta-FX/static/css/main.fd0301fc.css.map",
-    "main.898f5d18.js.map": "/Picta-FX/static/js/main.898f5d18.js.map"
+    "main.e7885d64.css.map": "/Picta-FX/static/css/main.e7885d64.css.map",
+    "main.87f4f8a6.js.map": "/Picta-FX/static/js/main.87f4f8a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd0301fc.css",
-    "static/js/main.898f5d18.js"
+    "static/css/main.e7885d64.css",
+    "static/js/main.87f4f8a6.js"
   ]
 }

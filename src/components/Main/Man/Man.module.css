@@ -92,7 +92,6 @@
   }
   
   .man__right_block {
-    margin-left: 52px;
     display: flex;
     flex-direction: column;
   }

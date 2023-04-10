@@ -1,6 +1,7 @@
 .video__block {
     display: flex;
     justify-content: center;
+    padding-bottom: 92px;
 }
 
 .video__player {

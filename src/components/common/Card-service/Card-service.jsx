@@ -8,7 +8,7 @@ import { ReactComponent as Money } from '../../../img/Money.svg';
 
 export const Card = ({ cards }) => {
   return (
-    <section>
+    <section className={css.section__card_service}>
       <div className={css.service__title_block}>
         <h2 className={css.service__title}>
           This is what we bring to the table
